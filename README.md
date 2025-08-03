@@ -39,7 +39,7 @@ If you have the `kitty-themes` repository cloned:
 
 ```bash
 # Clone the theme into your kitty themes directory
-git clone https://github.com/yourusername/melangey-kitty ~/.config/kitty/themes/melangey
+git clone https://github.com/owlfacegames/melangey-kitty ~/.config/kitty/themes/melangey
 
 # Apply the theme
 kitty +kitten themes --reload-in=all Melangey
